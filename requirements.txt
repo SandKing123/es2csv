@@ -1,3 +1,4 @@
-elasticsearch>=5.5.2,<5.6.0
+python3.x
+elasticsearch>=7.x,<7.x
 progressbar2>=3.36.0,<3.37.0
 backports.csv>=1.0.5,<1.1.0
